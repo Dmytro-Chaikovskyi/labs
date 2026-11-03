@@ -1,4 +1,4 @@
-from decorators import add_exclamation
+from lab6.decorators import add_exclamation
 
 @add_exclamation
 def format_message(text: str) -> str:
